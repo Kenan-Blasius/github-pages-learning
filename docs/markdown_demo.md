@@ -62,7 +62,7 @@ et de fermeture sur d'autre ligne.
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
 
-??? note "Note refermable (fermé par défault)""
+??? note "Note refermable (fermé par défault)"
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
