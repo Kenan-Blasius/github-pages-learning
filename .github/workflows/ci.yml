@@ -3,6 +3,7 @@ on:
   push:
     paths:
       - 'docs/**'
+      - 'material/**'
       - '.github/workflows/ci.yml'
       - 'init_setup.sh'
       - 'mkdocs.yml'
